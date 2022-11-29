@@ -3,7 +3,7 @@ const newColourBtnElement = document.getElementById(
 );
 
 const currentColourElement = document.getElementById(
-    "current_colour"
+    "current-colour"
 );
 
 const hexValues = [
