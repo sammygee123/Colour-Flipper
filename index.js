@@ -36,8 +36,9 @@ function getRandomHexString(stringLength) {
     let hexString = "";
     for (let i = 0; i < stringLength; i++) {
         hexString += getRandomHexValue();
-        return hexString;
+        
     }
+    return hexString;
 }
 
 
